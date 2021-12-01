@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lakshdhamo
-- 👀 I’m interested in .NER Full stack
+- 👀 I’m interested in .NET Full stack
 - 🌱 I’m currently learning Angular, Aurelia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
